@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Onur\\source\\repos\\DL_CNN_Cat_vs_Dog\\DL_CNN_Cat_vs_Dog\\catvsdog-0.001-6conv-basic-regularizer.model"
+all_model_checkpoint_paths: "C:\\Users\\Onur\\source\\repos\\DL_CNN_Cat_vs_Dog\\DL_CNN_Cat_vs_Dog\\catvsdog-0.001-6conv-basic-regularizer.model"
